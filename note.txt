@@ -1,0 +1,1 @@
+The solutions of Leetcode problems are according to the way it have to submit. You can make some changes in it to run it on local IDE. Try to remove class solution and call for solution function from main function with aprropriate parameters. Thanks! 
